@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" WHEN NO ONE IS WATCHING",
+        "price": 14.99,
+        "image": "images/1.jpg"
+    },
+    {
+        "id": 2,
+        "name":" MURDERVILLE",
+        "price": 14.49,
+        "image": "images/2.jpg"
+    },
+    {
+        "id": 3,
+        "name":" THE HEAVEN & EARTH GROCERY STORE",
+        "price": 24.99,
+        "image": "images/3.jpg"
+    },
+    {
+        "id": 4,
+        "name":" THE HATE YOU GIVE",
+        "price": 16.99,
+        "image": "images/4.jpg"
+    },
+    {
+        "id": 5,
+        "name":" CHILDREN OF BLOOD AND BONE",
+        "price": 17.99,
+        "image": "images/5.jpg"
+    },
+    {
+        "id": 6,
+        "name":" A LONG WAY DOWN",
+        "price": 11.49,
+        "image": "images/6.jpg"
+    },
+    {
+        "id": 7,
+        "name":" BELOVED",
+        "price": 14.99,
+        "image": "images/7.jpg"
+    },
+    {
+        "id": 8,
+        "name":" INVISIBLE MAN",
+        "price": 14.99,
+        "image": "images/8.jpg"
+    }
+
+]
